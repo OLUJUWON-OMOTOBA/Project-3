@@ -1,4 +1,3 @@
-# Project 3 : Call Center Analysis
 ### Project Overview
 The "[Call Centre Analysis](https://github.com/OLUJUWON-OMOTOBA/Project-3/blob/main/Call%20Centre%20Analysis.pbix)" Power BI project aimed to provide comprehensive insights and visualizations related to the performance and operations of a call center. The project involved collecting, processing, and analyzing data from various sources within the call center environment to help stakeholders make informed decisions and optimize their operations. Key components and features included:
 
