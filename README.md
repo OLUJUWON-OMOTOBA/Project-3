@@ -28,3 +28,4 @@ The "[Call Centre Analysis](https://github.com/OLUJUWON-OMOTOBA/Project-3/blob/m
    - Machine learning models were utilized to predict future call volumes or identify potential issues before they escalated.
 
 Through the implementation of the "Call Centre Analysis" Power BI project, organizations gained valuable insights into their call center operations, optimized resource allocation, improved customer satisfaction, and made data-driven decisions to enhance overall efficiency.
+![image](https://github.com/OLUJUWON-OMOTOBA/Project-3/assets/134015058/ec4acfd0-7856-4f18-803f-7b443e05d7bd)
